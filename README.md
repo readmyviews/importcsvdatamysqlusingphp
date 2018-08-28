@@ -1,6 +1,4 @@
-# importcsvdatamysqlusingphp
-
-Import csv data into mysql
+Import CSV data into MYSQL using PHP
 
 To get the detail knowledge of how to implement code please refer below link.
 
